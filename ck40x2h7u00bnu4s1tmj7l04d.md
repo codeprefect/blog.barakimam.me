@@ -1,6 +1,6 @@
 ## VS Code 101 for Remote Developers
 
-I started using Visual Studio Code around 2016, while it was not a smooth experience at first, VS Code has managed to endear itself to the heart of JavaScript and multi-platform developers.
+I started using Visual Studio Code around 2016, while it was not a smooth experience at first, VS Code has managed to endear itself to the heart of developers, especially the polyglots.
 
 ## Top VS Code Extensions for Remote Teams:
 
