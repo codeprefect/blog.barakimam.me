@@ -2,7 +2,7 @@
 
 Some years back, I used to maintain a SaaS application built on ASP.NET WebForms. Many organizations are aiming to migrate existing applications built on the ASP.NET Framework to the amazing .NET Core.
 
-TinySaas culminated from my work in migrating an ASP.NET application from  .NET Core.
+TinySaas culminated from my work in migrating an ASP.NET legacy application to ASP.NET Core.
 
 ---
 
@@ -20,10 +20,10 @@ The credit for this library goes to [Gunnar](https://gunnarpeipman.com/) and [Mi
 
 Multitenancy support should not require a rewrite nor massive changes. With TinyTenant, you can now add multitenancy support to both new and existing projects in simple steps.
 
-1. Add `CodEaisy.TinySaas` to your application via Nuget or the .NET CLI
+1. Add `CodEaisy.TinySaas.AspNetCore` to your application via Nuget or the .NET CLI
 
 ```bash
-dotnet add package CodEaisy.TinySaas --version 1.0.0-rc3
+dotnet add package CodEaisy.TinySaas.AspNetCore --version 1.0.0
 ```
 
 2. In `Startup.cs`, add the following inside the `ConfigureServices` method.
